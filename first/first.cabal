@@ -1,0 +1,9 @@
+name:              first
+version:           1.0
+Build-Type:        Simple
+cabal-version:     >= 1.2
+
+executable first
+  main-is:         HasPair.hs
+  hs-source-dirs:  src
+  build-depends:   base
