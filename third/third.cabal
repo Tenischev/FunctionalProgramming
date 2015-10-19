@@ -1,0 +1,9 @@
+name:              third
+version:           1.0
+Build-Type:        Simple
+cabal-version:     >= 1.2
+
+executable third
+  main-is:         MaxDeriv.hs
+  hs-source-dirs:  src
+  build-depends:   base
