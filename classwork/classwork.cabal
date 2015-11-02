@@ -1,0 +1,9 @@
+name:              classwork
+version:           1.0
+Build-Type:        Simple
+cabal-version:     >= 1.2
+
+executable classwork
+  main-is:         Calc.hs
+  hs-source-dirs:  src
+  build-depends:   base
