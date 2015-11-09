@@ -1,0 +1,9 @@
+name:              fifth
+version:           1.0
+Build-Type:        Simple
+cabal-version:     >= 1.2
+
+executable fifth
+  main-is:         RemoveBy.hs
+  hs-source-dirs:  src
+  build-depends:   base
