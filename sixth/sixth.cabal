@@ -1,9 +1,9 @@
-name:              classwork
+name:              sixth
 version:           1.0
 Build-Type:        Simple
 cabal-version:     >= 1.2
 
-executable classwork
-  main-is:         Foo.hs
+executable sixth
+  main-is:         Diag.hs
   hs-source-dirs:  src
   build-depends:   base
