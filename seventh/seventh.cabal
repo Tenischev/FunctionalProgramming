@@ -4,6 +4,6 @@ Build-Type:        Simple
 cabal-version:     >= 1.2
 
 executable seventh
-  main-is:         AddPars.hs
+  main-is:         Penalty.hs
   hs-source-dirs:  src
   build-depends:   base
