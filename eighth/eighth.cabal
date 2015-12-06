@@ -1,9 +1,9 @@
-name:              seventh
+name:              eighth
 version:           1.0
 Build-Type:        Simple
 cabal-version:     >= 1.2
 
-executable seventh
-  main-is:         AddPars.hs
+executable eighth
+  main-is:         Dijkstra.hs
   hs-source-dirs:  src
   build-depends:   base
